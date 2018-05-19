@@ -1,0 +1,876 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"measure",
+				"measurementSplitIndex"
+			],
+			[
+				"In",
+				"IngredientSection"
+			],
+			[
+				"import",
+				"import\treactImportComponent"
+			],
+			[
+				"ing",
+				"ingredients"
+			],
+			[
+				"ingre",
+				"ingredientList"
+			],
+			[
+				"ingred",
+				"ingredientStyles〔variable〕"
+			],
+			[
+				"backgrou",
+				"backgroundColor"
+			],
+			[
+				"Spark",
+				"SparkScroll〔variable〕"
+			],
+			[
+				"rec",
+				"recipeCardStyles〔variable〕"
+			],
+			[
+				"impo",
+				"import\treactImportComponent"
+			],
+			[
+				"map",
+				"mapDispatchToProps〔function〕"
+			],
+			[
+				"consum",
+				"consumerId"
+			],
+			[
+				"pro",
+				"producerId"
+			],
+			[
+				"done",
+				"doneEndpoint"
+			],
+			[
+				"CONSU",
+				"CONSUMPTION_RATE〔variable〕"
+			],
+			[
+				"React",
+				"ReactTestUtils"
+			],
+			[
+				"Rea",
+				"ReactTestUtils"
+			],
+			[
+				"visi",
+				"visibilityClass"
+			],
+			[
+				"new",
+				"newStatus〔variable〕"
+			],
+			[
+				"printer",
+				"printerStatus"
+			],
+			[
+				"prin",
+				"printerStatus"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"web",
+				"websocketActionCreators〔variable〕"
+			],
+			[
+				"SOCKET_IO_DISC",
+				"SOCKET_IO_DISCONNECTED"
+			],
+			[
+				"on",
+				"onDisconnect"
+			],
+			[
+				"Acti",
+				"ActiveEndpointComponent"
+			],
+			[
+				"active",
+				"activeTabs〔variable〕"
+			],
+			[
+				"conf",
+				"configureStore"
+			],
+			[
+				"pur",
+				"pure-button-active"
+			],
+			[
+				"sp",
+				"space-between"
+			],
+			[
+				"Tilemap",
+				"TilemapActionManager"
+			],
+			[
+				"txm",
+				"tmxXmlStr"
+			],
+			[
+				"tmx",
+				"tmxXmlStr"
+			],
+			[
+				"T",
+				"TitleScreen"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 784.0,
+		"last_filter": "Snippet: react",
+		"selected_items":
+		[
+			[
+				"Snippet: react",
+				"Snippet: reactArrowComponent"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 1080.0
+	},
+	"console":
+	{
+		"height": 266.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/dev/university-architect",
+		"/C/dev/university-architect/assets",
+		"/C/dev/university-architect/assets/scripts",
+		"/C/dev/university-architect/assets/scripts/_test_"
+	],
+	"file_history":
+	[
+		"/C/dev/eagle-print/mb-plugin/Gruntfile.js",
+		"/C/dev/MealLab.io/client/src/reducers/rootReducer.js",
+		"/C/dev/MealLab.io/server/index.js",
+		"/C/dev/MealLab.io/server/route/Scrape.js",
+		"/C/dev/MealLab.io/server/Model/Model.js",
+		"/C/dev/MealLab.io/server/Model/__test__/Recipe.test.js",
+		"/C/dev/MealLab.io/server/Scrape/FoodNetworkScraper.js",
+		"/C/dev/MealLab.io/server/Model/Recipe.js",
+		"/C/dev/MealLab.io/package.json",
+		"/C/dev/MealLab.io/client/package.json",
+		"/C/dev/MealLab.io/server/route/index.js",
+		"/C/dev/MealLab.io/client/src/__test__/App.js",
+		"/C/dev/MealLab.io/server/__test__/db.test.js",
+		"/C/dev/MealLab.io/server/route/Recipe.js",
+		"/C/dev/MealLab.io/.babelrc",
+		"/C/dev/MealLab.io/server/db.js",
+		"/C/Users/Austin/Desktop/ap.item.csv",
+		"/C/dev/MealLab.io/server/config.js",
+		"/C/Users/Austin/Desktop/ap.data.3.Food.csv",
+		"/C/Users/Austin/Downloads/home.htm",
+		"/C/dev/MealLab.io/server/config.default.js",
+		"/C/dev/MealLab.io/client/src/App.test.js",
+		"/C/dev/MealLab.io/client/src/__test__/App.test.js",
+		"/C/dev/MealLab.io/client/.babelrc",
+		"/C/dev/MealLab.io/client/src/components/Recipe.js",
+		"/C/dev/MealLab.io/client/src/App.css",
+		"/C/dev/MealLab.io/client/src/components/IngredientsList.js",
+		"/C/dev/MealLab.io/client/src/components/Ingredient.js",
+		"/C/dev/MealLab.io/client/src/components/IngredientSection.js",
+		"/C/dev/MealLab.io/client/src/components/RecipeStats.js",
+		"/C/dev/MealLab.io/client/src/components/Directions.js",
+		"/C/dev/MealLab.io/client/src/components/Direction.js",
+		"/C/dev/MealLab.io/client/src/App.js",
+		"/C/dev/MealLab.io/client/src/components/Subheader.js",
+		"/C/dev/MealLab.io/client/src/components/IngredientSection",
+		"/C/dev/MealLab.io/client/src/components/TagList.js",
+		"/C/dev/MealLab.io/client/src/components/Tag.js",
+		"/C/dev/MealLab.io/client/src/components/Header.js",
+		"/C/Users/Austin/dump_`date",
+		"/C/dev/WonderQ/package.json",
+		"/C/dev/life/README.md",
+		"/C/dev/MealLab.io/client/node_modules/react-spark-scroll/lib/spark.js",
+		"/C/dev/MealLab.io/client/src/components/Line.js",
+		"/C/dev/MealLab.io/client/public/index.html",
+		"/C/Users/Austin/AppData/Roaming/Sublime Text 3/Packages/User/reactImportComponent.sublime-snippet",
+		"/C/Users/Austin/AppData/Roaming/Sublime Text 3/Packages/User/reactArrowComponent.sublime-snippet",
+		"/C/dev/MealLab.io/client/components/Header.js",
+		"/C/dev/MealLab.io/NutritionFacts/data/abbrev.sql",
+		"/C/dev/MealLab.io/NutritionFacts/data/data.sql",
+		"/C/dev/WonderQ/README.md",
+		"/C/dev/WonderQ/QDevTools/src/components/QueueView.js",
+		"/C/dev/WonderQ/QDevTools/src/reducers/websocket.js",
+		"/C/dev/WonderQ/QDevTools/src/components/ListBox.js",
+		"/C/dev/WonderQ/QDevTools/src/reducers/rootReducer.js",
+		"/C/dev/WonderQ/QDevTools/src/App.js",
+		"/C/dev/WonderQ/QDevTools/src/App.css",
+		"/C/dev/WonderQ/config.js",
+		"/C/dev/WonderQ/config.default.js",
+		"/C/dev/WonderQ/QSim/Consumer.js",
+		"/C/dev/WonderQ/QDevTools/src/index.css",
+		"/C/dev/WonderQ/QDevTools/src/index.js",
+		"/C/dev/WonderQ/QSim/index.js",
+		"/C/dev/WonderQ/server/routes/message.js",
+		"/C/dev/WonderQ/server/routes/monitor.js",
+		"/C/dev/WonderQ/mockDB/DB.js",
+		"/C/dev/WonderQ/server/index.js",
+		"/C/dev/WonderQ/server/Snitch.js",
+		"/C/dev/WonderQ/QDevTools/src/actions/actionTypes.js",
+		"/C/dev/WonderQ/QDevTools/src/stores/store.js",
+		"/C/dev/WonderQ/QDevTools/src/middleware/socket-io.js",
+		"/C/dev/WonderQ/QDevTools/src/actions/websocket.js",
+		"/C/dev/WonderQ/QDevTools/src/actions/actions.js",
+		"/C/dev/WonderQ/server/Message.js",
+		"/C/dev/WonderQ/QSim/Producer.js",
+		"/C/dev/WonderQ/QSim/__test__/Consumer.test.js",
+		"/C/dev/WonderQ/server/__test__/Snitch.test.js",
+		"/C/dev/WonderQ/server/__test__/Message.test.js",
+		"/C/dev/WonderQ/mockDB/index.js",
+		"/C/dev/WonderQ/mockDB/ListNode.js",
+		"/C/dev/WonderQ/mockDB/__test__/DB.test.js",
+		"/C/dev/WonderQ/mockDB/__test__/ListNode.test.js",
+		"/C/dev/WonderQ/QSim/client/index.html",
+		"/C/dev/WonderQ/QDevTools/client/index.html",
+		"/C/dev/WonderQ/server/routes/Produce.js",
+		"/C/dev/WonderQ/server/routes/Consume.js",
+		"/C/dev/WonderQ/QSim/config.json",
+		"/C/dev/WonderQ/QSim/config.default.json",
+		"/C/dev/WonderQ/QSim/__test__/Producer.test.js",
+		"/C/dev/WonderQ/mockDB/README.md",
+		"/C/dev/WonderQ/mockDB/Queue.js",
+		"/C/dev/WonderQ/mockDB/__test__/Queue.test.js",
+		"/C/Users/Austin/Desktop/desktop_hiring_challenge-master _austin/src/components/__test__/Button.spec.js",
+		"/C/Users/Austin/Desktop/desktop_hiring_challenge-master _austin/test/loadtests.js",
+		"/C/Users/Austin/Desktop/desktop_hiring_challenge-master _austin/src/components/__test__/Button-spec.js",
+		"/C/Users/Austin/Desktop/desktop_hiring_challenge-master _austin/src/components/__test/Button-spec.js",
+		"/C/Users/Austin/Desktop/desktop_hiring_challenge-master _austin/src/components/LoadingBar.js",
+		"/C/Users/Austin/Desktop/desktop_hiring_challenge-master _austin/src/components/Button.js",
+		"/C/Users/Austin/Desktop/desktop_hiring_challenge-master _austin/src/components/Main.js",
+		"/C/Users/Austin/Desktop/desktop_hiring_challenge-master _austin/src/components/PrinterDetailer.js",
+		"/C/Users/Austin/Desktop/desktop_hiring_challenge-master _austin/src/components/StatusIcon.js",
+		"/C/Users/Austin/Desktop/desktop_hiring_challenge-master _austin/src/styles/LoadingBar.css",
+		"/C/Users/Austin/Desktop/desktop_hiring_challenge-master _austin/src/stores/store.js",
+		"/C/Users/Austin/Desktop/desktop_hiring_challenge-master _austin/src/styles/App.css",
+		"/C/Users/Austin/Desktop/desktop_hiring_challenge-master _austin/src/reducers/websocket.js",
+		"/C/Users/Austin/Desktop/desktop_hiring_challenge-master _austin/src/middleware/socket-io.js",
+		"/C/Users/Austin/Desktop/desktop_hiring_challenge-master _austin/src/styles/StatusIcon.css",
+		"/C/Users/Austin/Desktop/desktop_hiring_challenge-master _austin/src/components/ButtonPanel.js",
+		"/C/Users/Austin/Desktop/desktop_hiring_challenge-master _austin/src/reducers/printer.js",
+		"/C/Users/Austin/Desktop/desktop_hiring_challenge-master _austin/desktop_mock_printer-master/index.js",
+		"/C/Users/Austin/Desktop/desktop_hiring_challenge-master _austin/src/actions/actionTypes.js",
+		"/C/Users/Austin/Desktop/desktop_hiring_challenge-master _austin/src/styles/Button.css",
+		"/C/Users/Austin/Desktop/desktop_hiring_challenge-master _austin/src/index.js",
+		"/C/Users/Austin/Desktop/desktop_hiring_challenge-master _austin/src/index.html",
+		"/C/Users/Austin/AppData/Local/Temp/Rar$DIa4144.38985/README.md",
+		"/C/Users/Austin/Desktop/desktop_hiring_challenge-master _austin/README.md",
+		"/C/Users/Austin/Desktop/desktop_hiring_challenge-master _austin/desktop_mock_printer-master/constants.js",
+		"/C/Users/Austin/Desktop/desktop_hiring_challenge-master _austin/src/reducers/rootReducer.js",
+		"/C/Users/Austin/Desktop/desktop_hiring_challenge-master _austin/src/actions/actions.js",
+		"/C/Users/Austin/Desktop/desktop_hiring_challenge-master _austin/src/actions/printer.js",
+		"/C/Users/Austin/Desktop/desktop_hiring_challenge-master _austin/src/actions/websocket.js",
+		"/C/Users/Austin/Desktop/desktop_hiring_challenge-master _austin/src/config/base.js",
+		"/C/Users/Austin/Desktop/desktop_hiring_challenge-master _austin/src/components/Dispatcher.js",
+		"/C/dev/hermes/src/components/EndpointDesigner.js",
+		"/C/dev/hermes/src/index.js",
+		"/C/dev/hermes/src/io/index.js",
+		"/C/dev/hermes/src/reducers/tabReducer.js",
+		"/C/dev/hermes/src/containers/ActiveEndpoint.js",
+		"/C/dev/hermes/src/styles/ActiveEndpoint.css"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 208.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 80.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "university-architect.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"index",
+				"client\\src\\index.js"
+			],
+			[
+				"app.css",
+				"client\\src\\App.css"
+			],
+			[
+				"header",
+				"client\\src\\components\\Header.js"
+			],
+			[
+				"recipe",
+				"client\\src\\components\\Recipe.js"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"recipe.test",
+				"server\\Model\\__test__\\Recipe.test.js"
+			],
+			[
+				"model",
+				"server\\Model\\Model.js"
+			],
+			[
+				"recip",
+				"server\\Model\\Recipe.js"
+			],
+			[
+				"db.test",
+				"server\\__test__\\db.test.js"
+			],
+			[
+				"db",
+				"server\\db.js"
+			],
+			[
+				"ingredient",
+				"client\\src\\components\\Ingredient.js"
+			],
+			[
+				"ingre",
+				"client\\src\\components\\IngredientSection.js"
+			],
+			[
+				"sub",
+				"client\\src\\components\\Subheader.js"
+			],
+			[
+				"directions",
+				"client\\src\\components\\Directions.js"
+			],
+			[
+				"app",
+				"client\\src\\App.js"
+			],
+			[
+				"packa",
+				"client\\package.json"
+			],
+			[
+				"direc",
+				"client\\src\\components\\Directions.js"
+			],
+			[
+				"ingr",
+				"client\\src\\components\\IngredientsList.js"
+			],
+			[
+				"lis",
+				"QDevTools\\src\\components\\ListBox.js"
+			],
+			[
+				"message",
+				"QDevTools\\src\\components\\Message.js"
+			],
+			[
+				"list",
+				"QDevTools\\src\\components\\ListBox.js"
+			],
+			[
+				"me",
+				"server\\routes\\message.js"
+			],
+			[
+				"inde",
+				"QDevTools\\src\\index.js"
+			],
+			[
+				"pro",
+				"QSim\\Producer.js"
+			],
+			[
+				"con",
+				"QSim\\Consumer.js"
+			],
+			[
+				"consumer",
+				"QSim\\Consumer.js"
+			],
+			[
+				"socket",
+				"QDevTools\\src\\middleware\\socket-io.js"
+			],
+			[
+				"web",
+				"QDevTools\\src\\actions\\websocket.js"
+			],
+			[
+				"action",
+				"QDevTools\\src\\actions\\actionTypes.js"
+			],
+			[
+				"server/index.js",
+				"server\\index.js"
+			],
+			[
+				"socke",
+				"QDevTools\\src\\middleware\\socket-io.js"
+			],
+			[
+				"server/inde",
+				"server\\index.js"
+			],
+			[
+				"store",
+				"QDevTools\\src\\stores\\store.js"
+			],
+			[
+				"index.js",
+				"server\\index.js"
+			],
+			[
+				"app.js",
+				"QDevTools\\src\\App.js"
+			],
+			[
+				"config",
+				"config.js"
+			],
+			[
+				"listb",
+				"QDevTools\\src\\components\\ListBox.js"
+			],
+			[
+				"actionty",
+				"QDevTools\\src\\actions\\actionTypes.js"
+			],
+			[
+				"ququ",
+				"QDevTools\\src\\components\\QueueView.js"
+			],
+			[
+				"listbox",
+				"QDevTools\\src\\components\\ListBox.js"
+			],
+			[
+				"config.j",
+				"config.js"
+			],
+			[
+				"consum",
+				"QSim\\Consumer.js"
+			],
+			[
+				"mock",
+				"mockDB\\DB.js"
+			],
+			[
+				"consu",
+				"QSim\\Consumer.js"
+			],
+			[
+				"config.js",
+				"config.js"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"sock",
+				"src\\middleware\\socket-io.js"
+			],
+			[
+				"loadin",
+				"src\\components\\LoadingBar.js"
+			],
+			[
+				"laoding",
+				"src\\styles\\LoadingBar.css"
+			],
+			[
+				"loadi",
+				"src\\styles\\LoadingBar.css"
+			],
+			[
+				"print",
+				"src\\components\\PrinterDetailer.js"
+			],
+			[
+				"main",
+				"src\\components\\Main.js"
+			],
+			[
+				"loading",
+				"src\\styles\\LoadingBar.css"
+			],
+			[
+				"prin",
+				"src\\components\\PrinterDetailer.js"
+			],
+			[
+				"we",
+				"src\\middleware\\socket-io.js"
+			],
+			[
+				"button",
+				"src\\components\\Button.js"
+			],
+			[
+				"but",
+				"src\\components\\ButtonPanel.js"
+			],
+			[
+				"buttonpa",
+				"src\\components\\ButtonPanel.js"
+			],
+			[
+				"load",
+				"src\\components\\LoadingBar.js"
+			],
+			[
+				"status",
+				"src\\components\\StatusIcon.js"
+			],
+			[
+				"buttonp",
+				"src\\components\\ButtonPanel.js"
+			],
+			[
+				"statu",
+				"src\\components\\StatusIcon.js"
+			],
+			[
+				"butt",
+				"src\\components\\ButtonPanel.js"
+			],
+			[
+				"sto",
+				"src\\stores\\store.js"
+			],
+			[
+				"active",
+				"src\\styles\\ActiveEndpoint.css"
+			],
+			[
+				"app.",
+				"src\\App.css"
+			],
+			[
+				"en",
+				"src\\components\\EndpointDesigner.js"
+			],
+			[
+				"re",
+				"src\\reducers\\tabReducer.js"
+			],
+			[
+				"tab",
+				"src\\reducers\\tabReducer.js"
+			],
+			[
+				"ini",
+				"src\\reducers\\initialState.js"
+			],
+			[
+				"tabbar",
+				"src\\components\\TabBar.js"
+			],
+			[
+				"init",
+				"src\\reducers\\initialState.js"
+			],
+			[
+				"actions",
+				"src\\actions\\actions.js"
+			],
+			[
+				"endp",
+				"src\\components\\EndpointDesigner.js"
+			],
+			[
+				"tabb",
+				"src\\styles\\TabBar.css"
+			],
+			[
+				"css",
+				"src\\App.css"
+			],
+			[
+				"tilema",
+				"WorldManagement\\TilemapManager.js"
+			],
+			[
+				"tilemap",
+				"WorldManagement\\TilemapActionManager.js"
+			],
+			[
+				"simu",
+				"Simulation.js"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"request",
+				"src\\components\\RequestTypeDropdown.js"
+			],
+			[
+				"tab.j",
+				"src\\components\\Tab.js"
+			],
+			[
+				"",
+				"src\\components\\ActiveEndpoint.js"
+			],
+			[
+				"acti",
+				"src\\components\\ActiveEndpoint.js"
+			],
+			[
+				"timer",
+				"Timer.js"
+			],
+			[
+				"simulato",
+				"Simulation.js"
+			],
+			[
+				"studen",
+				"Student.js"
+			],
+			[
+				"student",
+				"src\\Student.js"
+			],
+			[
+				"hea",
+				"src\\components\\Header.js"
+			],
+			[
+				"simulation",
+				"Simulation.js"
+			],
+			[
+				"aeon",
+				"Aeon.js"
+			],
+			[
+				"pawn",
+				"Pawn.js"
+			],
+			[
+				"mapfile",
+				"WorldManagement\\MapGen\\MapFile.js"
+			],
+			[
+				"new",
+				"TitleScreen\\NewGamePanel.js"
+			],
+			[
+				"newmap",
+				"WorldManagement\\newMap.js"
+			],
+			[
+				"map",
+				"WorldManagement\\MapGen\\MapFile.js"
+			],
+			[
+				"xmle",
+				"WorldManagement\\MapGen\\xmlElements.js"
+			],
+			[
+				"xml",
+				"WorldManagement\\MapGen\\xmlElements.js"
+			],
+			[
+				"simua",
+				"Simulation.js"
+			],
+			[
+				"xmlele",
+				"WorldManagement\\MapGen\\xmlElements.js"
+			],
+			[
+				"title",
+				"TitleScreen\\TitleScreen.js"
+			],
+			[
+				"newg",
+				"TitleScreen\\NewGamePanel.js"
+			],
+			[
+				"shado",
+				"ShadowLabel.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 440.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
