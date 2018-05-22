@@ -12,11 +12,14 @@
   "dependencies": {
     "babel-core": "^6.26.3",
     "babel-plugin-transform-es2015-modules-commonjs": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
     "babel-preset-stage-2": "^6.24.1",
+    "es6-promisify": "^6.0.0",
     "gulp": "^3.9.1",
     "gulp-babel": "^7.0.1",
     "gulp-plumber-notifier": "^0.0.3",
     "jest": "^22.4.3",
+    "pify": "^3.0.0",
     "request": "^2.85.0",
     "request-promise": "^4.2.2"
   },
@@ -25,10 +28,16 @@
     "regenerator-runtime": "^0.11.1"
   },
   "babel": {
-    "presets": ["stage-2"],
-    "plugins": ["transform-es2015-modules-commonjs"]
+    "presets": [
+      "stage-2"
+    ],
+    "plugins": [
+      "transform-es2015-modules-commonjs"
+    ]
   },
   "jest": {
-    "roots": ["./src"]
+    "roots": [
+      "./src"
+    ]
   }
 }

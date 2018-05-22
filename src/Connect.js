@@ -1,5 +1,6 @@
-
+import _ from 'lodash';
 const connect = (es6Class, parent) => ccClass(es6Class, parent);
+
 export default connect;
 
 function es6Class(es6Class, parent){
